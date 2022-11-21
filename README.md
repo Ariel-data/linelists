@@ -1,7 +1,4 @@
-# Molecualr and atomic line lists
-
-
-## Molecular line list 
+# Molecular line lists
 
 Molecules     |   Range (cm-1)|    Source              |    Tmax
 ---------| --------- |  --------------- | ---------|
