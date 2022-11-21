@@ -3,9 +3,8 @@
 
 ## Molecular line list 
 
----------| --------- |  --------------- | ---------|
-
 Molecules     |   Range (cm-1)|    Source              |    Tmax
+---------| --------- |  --------------- | ---------|
 C2H2          |  0-10000      |  ExoMol                |      2200
 C2H4          |  0-6000       |  TheoRets/Exomol       |       700
 C2H6          |               |                        |
@@ -15,7 +14,6 @@ CO            |  0-22000      |  HITRAN/Civiš          |      9000
 CO2           |  0-10000      |  AMES                  |      4000
 FeH           |  3800-15000   |  MOLLIST/Exomol        |      8000
 H2            |  0-36000      |  ExoMol/Civiš          |     10000
-              |               |                        |
 H2O           |               |  ExoMol/HITEMP         |      5000
 H2S           |  0-35000      |  ExoMol                |      3000
 H3+           |  0-27000      |  ExoMol/Civiš          |      5000
