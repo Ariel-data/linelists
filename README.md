@@ -1,13 +1,19 @@
 # Molecular line lists
 
-Molecules     |   Range (cm-1)|    Source              |    Tmax
+## Sources
+
+- [HITEMP](https://hitran.org/hitemp/)
+- [ExoMol](exomol.com)
+- [TheoReTS Reims](https://theorets.univ-reims.fr/molspectra/); [ThepReTS](https://theorets.tsu.ru/)
+
+Molecules     |   Range (cm-1)|    Source              |    Tmax (K)
 ---------| --------- |  --------------- | ---------|
-CaOH          |               |  ExoMol                |     
-C2H2          |  0-10000      |  ExoMol                |      2200
+CaOH          |  0-35000      |  [ExoMol OYT6](https://exomol.com/data/molecules/CaOH/40Ca-16O-1H/OYT6/) | 3000      
+C2H2          |  0-10000      |  [ExoMol aCeTY](https://exomol.com/data/molecules/C2H2/12C2-1H2/aCeTY/)|      2200
 C2H4          |  0-6000       |  TheoRets/Exomol       |       700
-C2H6          |               |                        |
+C2H6          |     --        |    --                  |
 CH3D          |               |  TheoRets              |
-CH3F          |               |  TheoRets/ExoMol       |
+CH3F          |               |  TheoRets/ExoMol       |      300
 CH4           |  0-12000      |  HITEMP/TheoRets/Exomol|      2000
 CF4           |               |  TheoRets              |      2000
 CO2           |  0-10000      |  AMES                  |      4000
