@@ -1,12 +1,16 @@
 # Molecular line lists
 
-## Sources
+For details, see [Chubb eta al., *RASTI*, **3**, 636 (2024)](https://theorets.univ-reims.fr/molspectra/): "Data for the Ariel space mission and other exoplanet applications"
+
 
 - **HI** [HITEMP](https://hitran.org/hitemp/)
 - **Ex** [ExoMol](exomol.com)
 - **Th** [TheoReTS Reims](https://theorets.univ-reims.fr/molspectra/); [ThepReTS](https://theorets.tsu.ru/)
 - **Ku** Kurucz
 - **H** = Hot
+
+### An overview of the molecules, wavelength coverage, and temperature coverage for some of the major line lists  available from listed databases for the (exo)planetary atmosphere community. See the footnotes to the table for a key of database and wavelength range. Line lists which are considered complete up to T~1000 K are labelled with (H), and all others are generally assumed to be complete up to ~500 K. 
+
 
 
 Molecule                     |  Range                |  Database           | Molecule               |  Range                |  Database
