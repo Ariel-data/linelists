@@ -3,13 +3,34 @@
 For details, see [Chubb eta al., *RASTI*, **3**, 636 (2024)](https://theorets.univ-reims.fr/molspectra/): "Data for the Ariel space mission and other exoplanet applications"
 
 
+### An overview of some line list databases used by the (exo)planetary atmosphere community. 
+
+Database      / Link                                                |     Type of data
+--------------------------------------------------------------------|--------------------------------------------------
+[ CaSDa       ](https://vamdc.icb.cnrs.fr)                          |      Theoretical line lists up to high temperatures
+[ ExoMol      ](https://exomol.com)                                 |      Theoretical line lists up to high temperatures
+[ GEISA       ](https://geisa.aeris-data.fr)                        |      Accurate line lists for terrestrial conditions
+[ HITEMP      ](https://hitran.org/hitemp)                          |      Line lists up to high temperatures
+[ HITRAN      ](https://hitran.org)                                |      Accurate line lists for terrestrial conditions
+[ Kurucz      ](http://kurucz.harvard.edu/molecules.html)           |     Semi-empirical line lists up to high temperatures
+[ MoLLIST     ](https://bernath.uwaterloo.ca/molecularlists.php)    |      Laboratory line lists up to high temperatures
+[ NASA Ames   ](http://huang.seti.org)                              |      Semi-empirical line lists up to high temperatures
+[ NIST        ](https://physics.nist.gov/PhysRefData/ASD/lines_form.html)   |     Atomic line lists up to high temperatures
+[ S&MPO       ](http://smpo.iao.ru)                                 |    Spectroscopy and Molecular Properties of Ozone
+[ TheoReTs    ](https://theorets.tsu.ru)                            |      Theoretical line lists up to high temperatures
+[ VALD3       ](http://vald.astro.uu.se)                            |     Atomic line lists up to high temperatures
+
+
+
+
+### An overview of the molecules, wavelength coverage, and temperature coverage for some of the major line lists  available from listed databases for the (exo)planetary atmosphere community. See the footnotes to the table for a key of database and wavelength range. Line lists which are considered complete up to T~1000 K are labelled with (H), and all others are generally assumed to be complete up to ~500 K. 
+
+
 - **HI** [HITEMP](https://hitran.org/hitemp/)
 - **Ex** [ExoMol](exomol.com)
 - **Th** [TheoReTS Reims](https://theorets.univ-reims.fr/molspectra/); [ThepReTS](https://theorets.tsu.ru/)
 - **Ku** Kurucz
 - **H** = Hot
-
-### An overview of the molecules, wavelength coverage, and temperature coverage for some of the major line lists  available from listed databases for the (exo)planetary atmosphere community. See the footnotes to the table for a key of database and wavelength range. Line lists which are considered complete up to T~1000 K are labelled with (H), and all others are generally assumed to be complete up to ~500 K. 
 
 
 
